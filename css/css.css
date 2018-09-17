@@ -142,7 +142,8 @@ li,dd,.il{display:inline-block;*display:inline;*zoom:1;vertical-align:top}
 .content-center{width:1000px; height:295px; margin:0 auto;}
 .news{width:1000px; height:255px; margin-top:10px;}
 .news-01{width:495px; height:255px; float:left;}
-.news-images{width:254px; height:250px; float:left;}
+.news-images{width:254px; height:250px; float:left; padding:10px;}
+.news-images-m{width:254px; height:250px; float:left;}
 .news-list{width:240px; height:250px; float:right;}
 .news-list span{font-size:14px; padding-left:5px;}
 .news-list p{font-size:12px; line-height:25px; padding-left:5px; padding-top:20px; text-indent:1em;}
